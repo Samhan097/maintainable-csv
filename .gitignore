@@ -1,3 +1,2 @@
 /node_modules
-*.csv filter=lfs diff=lfs merge=lfs -text
-/transactions.csv
+*.csv transactions.csv
